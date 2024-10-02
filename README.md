@@ -6,3 +6,7 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=140 align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=PaulaAlessandraF&layout=compact&langs_count=8&card_width=320&bg_color=00000000" />
 </a>
+
+<div>
+  <a href="mailto:paulaale.fernandes@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
+</div>
