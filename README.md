@@ -5,8 +5,8 @@
 
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-rickstaa.vercel.app/api?username=PaulaAlessandraF&show_icons=true&theme=transparent" />
-  <img height="180em" src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=PaulaAlessandraF&layout=compact&theme=transparent" />
+  <img height="170em" width="48%" src="https://github-readme-stats-rickstaa.vercel.app/api?username=PaulaAlessandraF&show_icons=true&theme=transparent" />
+  <img height="170em" width="48%" src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=PaulaAlessandraF&layout=compact&theme=transparent" />
 </p>
 
 ## 📫 Contato
