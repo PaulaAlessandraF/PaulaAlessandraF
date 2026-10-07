@@ -1,7 +1,8 @@
 # Olá, eu sou a Paula Alessandra! 👋
 
 💻 Estudante de Engenharia da Computação  
-🔐 Interessada em Cibersegurança e redes 
+☁️ Cloud Computing | AWS | Python | Artificial Intelligence (AI)
+
 
 
 <p align="center">
