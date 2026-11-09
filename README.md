@@ -1,14 +1,24 @@
 # Olá, eu sou a Paula Alessandra! 👋
 
-💻 Estudante de Engenharia da Computação  
-☁️ Cloud Computing | AWS | Python | Artificial Intelligence (AI)
+💻 **Engenharia da Computação | Engenharia de Software**  
+🚀 Desenvolvedora de Software | Criadora de Produtos Digitais  
+👩‍💻 Founder & CEO @ ApolloTech  
+🌐 [www.apollotech.com.br](https://www.apollotech.com.br)
 
+🐍 Python | JavaScript | TypeScript | AWS
 
+💡 Transformando problemas reais em soluções tecnológicas.
+
+---
+
+## 📊 Estatísticas do GitHub
 
 <p align="center">
   <img height="170em" width="48%" src="https://github-readme-stats-rickstaa.vercel.app/api?username=PaulaAlessandraF&show_icons=true&theme=transparent" />
   <img height="170em" width="48%" src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=PaulaAlessandraF&layout=compact&theme=transparent" />
 </p>
+
+---
 
 ## 📫 Contato
 
